@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class ArrayMax {
     public static void main(String args[]) {
         int list [] = new int [] {1,3,5,6,7,3,1,6,10};
